@@ -14,7 +14,7 @@ public class FirstNonDuplicateCharacterAssessment {
          * 4. Use the BuildAndRunTests command to evaluate your solution
          */
 
-        return Character.MIN_VALUE;
+        return ' ';
     }
 
 
