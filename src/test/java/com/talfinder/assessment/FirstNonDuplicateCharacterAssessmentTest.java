@@ -31,7 +31,7 @@ public class FirstNonDuplicateCharacterAssessmentTest {
                 {"Abba", 'A'},
                 {"e$&yh*eh", 'y'},
                 {"e45th4e", '5'},
-                {"if the input is apple, then the output would be a If the input is racecars, then the output would be ‘e’", 'I'},
+                {"if the input is apple, then the output would be a If the input is racecars, then the output would be e", 'I'},
                 {"aromatic", 'r'}});
     }
 
