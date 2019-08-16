@@ -37,6 +37,6 @@ public class FirstNonDuplicateCharacterAssessmentTest {
 
     @Test
     public void checkForNonDuplicateCharacter() {
-        Assert.assertEquals("input:String as " + text + "", expected, FirstNonDuplicateCharacterAssessment.firstNonRepeatingCharacter(text));
+        Assert.assertEquals("input: " + text + "", expected, FirstNonDuplicateCharacterAssessment.firstNonRepeatingCharacter(text));
     }
 }
